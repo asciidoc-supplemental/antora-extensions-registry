@@ -35,7 +35,7 @@ Everything below the frontmatter is used as the detailed description in the exte
 
 === Template
 
-You can use the following template as a starting point. [link:https://github.com/the-dev-center/antora-extensions-registry/blob/main/templates/antora-registry.md[Download Template]]
+You can use the following template as a starting point. [link:https://github.com/devcntr-app/antora-extensions-registry/blob/main/templates/antora-registry.md[Download Template]]
 
 [source,markdown]
 ----
@@ -66,3 +66,4 @@ This content will be displayed in the "Insights" panel of the Antora Extensions 
 * **Aspect Ratio**: We recommend a 16:9 aspect ratio for best display results.
 * **Format**: Standard web formats like PNG, JPG, or WebP are supported.
 * **Count**: You can provide up to 5 screenshots.
+
