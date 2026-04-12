@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dprint.dprint",
+    "biomejs.biome",
+    "DavidAnson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+    "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+    "bierner.markdown-mermaid",
+    "asciidoctor.asciidoctor-vscode",
+    "redhat.vscode-yaml",
+    "github.vscode-pull-request-github",
+    "eamodio.gitlens"
+  ]
+}
